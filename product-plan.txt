@@ -3,4 +3,5 @@ Product Plan Inverted Priest
 - Notion template: Mission Control+
   - Finalize journal prompts
   - Review the prompts
+  - Video tutorial
 - Notion template: Huntr Notion Version
