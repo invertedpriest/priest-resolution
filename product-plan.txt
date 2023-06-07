@@ -3,4 +3,6 @@ Product Plan Inverted Priest
 - Notion template: Mission Control+
   - Finalize journal prompts
   - Review the prompts
+  - Create marketing plan
+  - Try PayPal payment
 - Notion template: Huntr Notion Version
