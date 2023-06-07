@@ -1,3 +1,5 @@
 Product Plan Inverted Priest
 - Medium article: How I use iPad Only as Data Analyst Student
 - Notion template: Mission Control+
+  - Finalize journal prompts
+  - Review the prompts
